@@ -48,8 +48,8 @@ Privacy Policy last updated: December 1, 2025
 
 - **ControlD Website:** https://controld.com
 - **ControlD Privacy Policy:** https://controld.com/privacy
-- **ControlD Terms of Service:** https://controld.com/tos
-- **ControlD Support:** https://controld.com/support
+- **ControlD Terms of Service:** https://controld.com/terms
+- **ControlD Support:** help@controld.com
 
 ---
 
